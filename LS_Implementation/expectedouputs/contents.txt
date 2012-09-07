@@ -1,0 +1,7 @@
+bin
+expectedouputs
+lib
+out.txt
+samples
+src
+testsFolder

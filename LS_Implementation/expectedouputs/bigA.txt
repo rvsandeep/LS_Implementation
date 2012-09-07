@@ -1,0 +1,12 @@
+.classpath
+.DS_Store
+.project
+.settings
+bin
+expectedouputs
+lib
+out.txt
+samples
+src
+testsFolder
+
