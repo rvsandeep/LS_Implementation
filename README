@@ -1,4 +1,4 @@
-This Repo is Java Code for Reimplementing the unix Ls command for learning.
+This Repo is a Java Code for Reimplementing the unix Ls command for learning.
 Version 1: provides few options like "-a","-S","-R","-A","-t".
 
 Version 2: added options like "-u","-F","U" and also incuded few test cases 
