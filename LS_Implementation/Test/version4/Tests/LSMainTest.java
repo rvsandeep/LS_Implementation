@@ -6,6 +6,10 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+/* Test Case for this version is not implemented since it's just reorganizing the previous version
+ * and making minor changes.
+*/
+
 public class LSMainTest {
 
 	@BeforeClass
