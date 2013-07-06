@@ -6,7 +6,7 @@ This Repo is a Java Code for Reimplementing the unix Ls command for learning.
 Version 1: provides few options like "-a","-S","-R","-A","-t".
 
 Version 2: added options like "-u","-F","U" and also
-learnt how to write JUnit Test Cases and made a test class using a folder "expected outputs".
+learnt how to write JUnit Test Cases and made a test class which uses a folder "expected outputs".
 
 Test Class are not implemented in further versions since they are just reorganzing the code .
 
