@@ -178,9 +178,6 @@ public class LsImplementation implements LsInterface {
 	}
 
 	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see version3.LsInterface#performOperation()
 	 * 
 	 * Class BasedOnAttributes chooses the operation based on Attributes,
 	 * performs them and returns a list of strings to be printed to the screen
