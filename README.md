@@ -1,6 +1,6 @@
 LS_Implementation
 =================
-Reimplemting the unix ls command, in view of learning Code Organization.
+Implemting the unix ls command, in view of learning Code Organization.
 
 This Repo is a Java Code for Reimplementing the unix Ls command for learning.
 Version 1: provides few options like "-a","-S","-R","-A","-t".
